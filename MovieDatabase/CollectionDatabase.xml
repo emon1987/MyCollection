@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieDatabase>
+    <MovieCollection CollectionName="default">
+		<Movie Title="Hitchhicker's Guide to the Galaxy" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase.jpg"/>
+		<Movie Title="300" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/300Poster.jpg"/>
+		<Movie Title="Willy Wonka & The Chocolate Factory" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/WillyWonkaAndTheChocolateFactoryPoster.jpg"/>
+		<Movie Title="The Iron Giant" Format="DVD" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/TheIronGiantPoster.jpg"/>
+    </MovieCollection>
+</MovieDatabase>

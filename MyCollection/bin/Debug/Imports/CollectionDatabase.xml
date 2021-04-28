@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<MovieDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DatabaseName="Collection Library">
+  <SingleCollection CollectionName="Emon's Collection">
+    <Movie MovieTitle="12 Angry Men" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/12 Angry Men.jpg" UserRating="5" />
+    <Movie MovieTitle="300" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/300Poster.jpg" UserRating="5" />
+    <Movie MovieTitle="Batman" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/Batman.jpg" UserRating="3" />
+    <Movie MovieTitle="Batman Begins" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/Batman Begins.jpg" UserRating="5" />
+    <Movie MovieTitle="Beauty and the Beast" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/Beauty and the Beast.jpg" UserRating="4" />
+    <Movie MovieTitle="Fantastic Mr Fox" Format="DVD" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/DefaultMoviePoster.jpg" UserRating="5" />
+    <Movie MovieTitle="Hitchhicker's Guide to the Galaxy" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/HitchHiker'sGuideToTheGalaxyPoster.jpg" UserRating="5" />
+    <Movie MovieTitle="Movie" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/DefaultMoviePoster.jpg" UserRating="3" />
+    <Movie MovieTitle="The Dark Knight" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/The Dark Knight.jpg" UserRating="5" />
+    <Movie MovieTitle="The Incredibles" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/The Incredibles.jpg" UserRating="4" />
+    <Movie MovieTitle="The Iron Giant" Format="DVD" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/TheIronGiantPoster.jpg" UserRating="5" />
+    <Movie MovieTitle="X-Men" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/DefaultMoviePoster.jpg" UserRating="3" />
+    <Movie MovieTitle="The Dark Knight Rises" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/The Dark Knight Rises.jpg" UserRating="5" />
+  </SingleCollection>
+  <SingleCollection CollectionName="Alex's Collection">
+    <Movie MovieTitle="The Iron Giant" Format="DVD" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/TheIronGiantPoster.jpg" UserRating="5" />
+    <Movie MovieTitle="Willy Wonka and The Chocolate Factory" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/WillyWonkaAndTheChocolateFactoryPoster.jpg" UserRating="5" />
+    <Movie MovieTitle="Interstellar" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/Interstellar.jpg" UserRating="4" />
+    <Movie MovieTitle="The Dark Knight Rises" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/The Dark Knight Rises.jpg" UserRating="4" />
+    <Movie MovieTitle="Star Wars" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/DefaultMoviePoster.jpg" UserRating="3" />
+    <Movie MovieTitle="300" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/300Poster.jpg" UserRating="0" />
+  </SingleCollection>
+  <SingleCollection CollectionName="Jay's Collection">
+    <Movie MovieTitle="12 Angry Men" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/12 Angry Men.jpg" UserRating="5" />
+    <Movie MovieTitle="Star Wars A New Hope" Format="Blu-Ray" ImageSource="C:/Users/emon1/Desktop/MyCollection/PosterDatabase/DefaultMoviePoster.jpg" UserRating="4" />
+  </SingleCollection>
+</MovieDatabase>
