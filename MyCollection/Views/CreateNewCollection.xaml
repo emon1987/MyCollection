@@ -1,0 +1,33 @@
+﻿<Window x:Class="MyCollection.Views.CreateNewCollection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyCollection.Views"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        SizeToContent="WidthAndHeight">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Common/FontResources.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Common/ButtonResources.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Common/BackgroundResources.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Border Style="{StaticResource BorderDesigns}">
+        <StackPanel Margin="10">
+            <TextBlock Text="Enter a new collection name" Style="{StaticResource TextDesign}"/>
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="2">
+                <TextBox Text="{Binding NewCollectionName}" Padding="2" Background="#B0AEAE"/>
+            </Border>
+            <Button Content="Save" Style="{StaticResource StandardButton}" 
+                    Command="{Binding SaveCollection}"/>
+            <Button Content="Cancel" Style="{StaticResource StandardButton}" 
+                    Command="{Binding CancelNewCollection}"/>
+        </StackPanel>
+        
+    </Border>
+</Window>
